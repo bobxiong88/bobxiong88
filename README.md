@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+#### Don't want to get flagged for NDA, so I made a new account for my first internship at Nest Wallet. Here are my internet points:
+
+![contrib](https://github.com/bobxiong88/bobxiong88/assets/39507662/8d893c95-7b45-414c-8e38-1091b470934f)
+
+
 <!--
 **bobxiong88/bobxiong88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
